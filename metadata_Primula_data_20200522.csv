@@ -1,0 +1,23 @@
+Variable,Explanation
+ID,Numbered tag in plot. Ephitet B refers to addtional plant
+Var,Variety. Northern= var. finmarchica; Southern= var.jokelae
+Plot,Running number of plots in gardens (from south to north: A-C in Tartu …. P-R in Svanvik)
+Pop,Source population (see supplementary material Table S1 for description)
+Add,Whether or not the plant was an addtional plant added to the experiment in the end of the first summer. Original plant= 0; additional plant =1
+Garden,Experimental garden
+OrigSize,Original size (at planting)
+Flow14,Flowered in summer 2014 (1=yes; 0=no)
+FlowNo14,Number of flowers in day 14 after start of flowering in garden in year 2014
+Dayofyear14,Day of year of flowering in 2014
+Alive14,Alive in fall 2014 (1=yes; 0=no)
+Size14,Size in fall 2014 (cm2)
+Flow15,Flowered in summer 2015 (1=yes; 0=no)
+FlowNo15,Number of flowers in day 14 after start of flowering in garden in year 2015
+Dayofyear15,Day of year of flowering in 2015
+Alive15,Alive in fall 2015 (1=yes; 0=no)
+Size 15,Size in fall 2015 (cm2)
+Flow16,Flowered in summer 2016 (1=yes; 0=no)
+FlowNo16,Number of flowers in day 14 after start of flowering in garden in year 2016
+Dayofyear16,Day of year of flowering in 2016
+Alive16,Alive in fall 2016 (1=yes; 0=no)
+Size16,Size in fall 2016 (cm2)
